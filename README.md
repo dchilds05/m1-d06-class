@@ -5,7 +5,8 @@
 ## Lab
 
 [LAB | CSS Instagram Clone](https://github.com/ironhack-labs/lab-css-instagram-clone)
-[LAB | CSS Cloning Revera wit Bootstrap](https://github.com/ironhack-labs/lab-bootstrap-cloning-revera)
+
+[CSS | Slack Clone with Flexbox](https://github.com/ironhack-labs/lab-css-flexbox-slack)
 
 ## Class
 
@@ -15,7 +16,8 @@
 
 ## Self Guided
 
-[CSS | Slack Clone with Flexbox](https://github.com/ironhack-labs/lab-css-flexbox-slack)
+[CSS | Cloning Revera wit Bootstrap](https://github.com/ironhack-labs/lab-bootstrap-cloning-revera)
+
 [CSS | Positioning](https://my.ironhack.com/lms/courses/course-v1:IRONHACK+WDFT52+202105_BCN/modules/ironhack-course-chapter_2/units/ironhack-course-chapter_2-sequential-vertical_1)
 
 ## Extra Resources
