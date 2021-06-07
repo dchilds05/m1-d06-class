@@ -2,7 +2,8 @@
 
 After this lesson, you should be able to:
 
-- Create, change and delete the DOM elements
+- Create, change and delete the DOM elem
+  ents
 - Create, change and delete the content of the DOM elements
 - Create, change and delete the attributes of the DOM elements
 - Create and assign events to the DOM elements
