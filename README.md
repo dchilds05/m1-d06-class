@@ -2,37 +2,22 @@
 
 # Module 1 - Day 6
 
+## Lab
 
-## Lab 
-
-[Link to LAB](# lab)
-
+[LAB | CSS Instagram Clone](https://github.com/ironhack-labs/lab-css-instagram-clone)
+[LAB | CSS Cloning Revera wit Bootstrap](https://github.com/ironhack-labs/lab-bootstrap-cloning-revera)
 
 ## Class
 
-- [Link Topic 1](# .md Topic 1)
+- DOM | Selectors Intro
 
-- [Link Topic 1] (# .md Topic 2)
-
-- [Link Topic 1] (# .md Topic 3)
-
-- etc...
-
+- DOM | DOM Manipulation
 
 ## Self Guided
 
-[Link to Self Guided](# Self Guided)
-
-
-## Assesment 
-
-[Link to Assesment](# assesment)
-
+[CSS | Slack Clone with Flexbox](https://github.com/ironhack-labs/lab-css-flexbox-slack)
+[CSS | Positioning](https://my.ironhack.com/lms/courses/course-v1:IRONHACK+WDFT52+202105_BCN/modules/ironhack-course-chapter_2/units/ironhack-course-chapter_2-sequential-vertical_1)
 
 ## Extra Resources
 
-- [Link to Extra Resource 1](# Extra Resources 1)
-
-- [Link to Extra Resource 2](# Extra Resources 2)
-
-- [Link to Extra Resource 3](# Extra Resources 3)
+TBD
