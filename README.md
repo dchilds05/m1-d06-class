@@ -6,7 +6,7 @@
 
 [LAB | CSS Instagram Clone](https://github.com/ironhack-labs/lab-css-instagram-clone)
 
-[CSS | Slack Clone with Flexbox](https://github.com/ironhack-labs/lab-css-flexbox-slack)
+[LAB | CSS Slack Clone with Flexbox](https://github.com/ironhack-labs/lab-css-flexbox-slack)
 
 ## Class
 
