@@ -1,11 +1,13 @@
-# Shops!
+/*# Shops!
 
 Create a class Shop that can help shop owners keep track of their products!
 
 Our class should have multiple functionality:
 
-- initialize your shop with a name.
----
+- initialize your shop with a name.*/
+
+
+
 - **addProduct**
     should take the name, price and stock of your product. Stock should be optional otherwise it counts as 1.
 
